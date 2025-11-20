@@ -60,3 +60,4 @@ A[New Transaction] --> B[Analyze Behavior]
 B --> C[Calculate Fraud Score]
 C -->|High Risk| D[Flag as Fraud]
 C -->|Low Risk| E[Approve Transaction]
+![fraud workflow](fraud deytection images.jpg)
